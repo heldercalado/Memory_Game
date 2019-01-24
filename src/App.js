@@ -56,7 +56,13 @@ newGame(){
   })
    
     
-  this.setState({score:0},{dbzchars},{ gameover: ""});
+  this.setState({
+    score:0,
+    dbzchars,
+    gameover: ""
+
+
+  })
   
   this.shakePicture();
   
