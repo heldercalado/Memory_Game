@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Freeza",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85_002v2.png/revision/latest/scale-to-width-down/278?cb=20170920193805"
+  
+    },
+    {
+      "id": 2,
+      "name": "Broly",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/c/cd/Broly_Infobox_image.png/revision/latest/scale-to-width-down/350?cb=20170525181624"
+    },
+    {
+      "id": 3,
+      "name": "Vegeta",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/2/25/Vegeta_DBZ_Ep_222_002.png/revision/latest/scale-to-width-down/212?cb=20170921025547"
+    },
+    {
+      "id": 4,
+      "name": "Gogeta",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/e/e1/Base_gogeta.jpg/revision/latest/scale-to-width-down/350?cb=20181129154755"
+    },
+    {
+      "id": 5,
+      "name": "Goku",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest/scale-to-width-down/224?cb=20150325220848"
+    },
+    {
+      "id": 6,
+      "name": "Bojack",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/2/29/Bojack.BojackUnbound.png/revision/latest/scale-to-width-down/350?cb=20110909075506"
+    },
+    {
+      "id": 7,
+      "name": "Bulma",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/e/eb/Bulma_-_Blood_Rubies_-_000.png/revision/latest/scale-to-width-down/346?cb=20180809014555"
+    },
+    {
+      "id": 8,
+      "name": "Andriod 17",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/81/Android_17_DBZ_Ep_148_014.png/revision/latest/scale-to-width-down/211?cb=20170924033032"
+    },
+    {
+      "id": 9,
+      "name": "Andriod 16",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f6/Android_16_DBZ_Ep_134_001.png/revision/latest/scale-to-width-down/182?cb=20171021011302"
+    },
+    {
+      "id": 10,
+      "name": "Cell",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/88/CellXeno.png/revision/latest/scale-to-width-down/350?cb=20180525221832"
+    },
+    {
+      "id": 11,
+      "name": "Gohan",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/a/aa/GohanFutureDVDnv.png/revision/latest/scale-to-width-down/322?cb=20100608114633"
+    },
+    {
+      "id": 12,
+      "name": "King Kay",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/a/aa/Future-King-Kai.JPG/revision/latest?cb=20130720100613"
+    }
+  ]
